@@ -1,1 +1,21 @@
+# Amazon Price Analysis – Web Scraping Project
+
+## Overview
+This project involves scraping Amazon product data to analyze pricing trends and make informed decisions in an arbitrage business. Using Python's BeautifulSoup and requests libraries, I extracted product prices, reviews, and ratings from Amazon to track price fluctuations and identify profitable opportunities.
+
+## What I Did:
+- **Web Scraping:** Implemented Python scripts using BeautifulSoup and requests to scrape product data from Amazon, focusing on prices, ratings, and reviews.
+- **Data Storage:** Stored the scraped data in a structured format using CSV files for further analysis.
+- **Data Analysis:** Analyzed the collected data to identify pricing trends, compare product performance, and spot opportunities for profitable resale.
+- **Automation:** Developed a script to automate the data scraping process, enabling regular updates to the dataset.
+
+## Impact
+The insights gained from this analysis helped optimize pricing strategies in the arbitrage business, leading to more informed purchasing decisions and improved profitability.
+
+## Technologies Used
+- Python
+- BeautifulSoup
+- Requests
+- Pandas
+- CSV
 
