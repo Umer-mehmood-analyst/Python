@@ -1,1 +1,24 @@
+# Cryptocurrency Data Analysis – Python Project
+
+## Overview
+This project analyzes cryptocurrency market trends using the CoinMarketCap API and Python. The goal was to track and visualize the price movements and percentage changes of various cryptocurrencies over time, providing insights into market dynamics and investment opportunities.
+
+## What I Did:
+- **Data Collection:** Utilized the CoinMarketCap API to fetch real-time data on the top 15 cryptocurrencies, including their price and percentage changes.
+- **Data Processing:** Normalized and cleaned the API data, stored it in a CSV file, and continuously updated it to track changes over time.
+- **Data Analysis:** Analyzed percentage changes in cryptocurrency prices over 1 hour, 24 hours, 7 days, 30 days, 60 days, and 90 days. Visualized trends using Seaborn and Matplotlib, focusing on major cryptocurrencies like Bitcoin.
+
+## Key Features:
+- **Automated Data Fetching:** The script runs every minute, ensuring up-to-date data collection.
+- **Data Visualization:** Plots percentage changes and price trends, providing clear insights into market behavior.
+
+## Impact
+This project delivered valuable insights into cryptocurrency price trends, helping investors make informed decisions based on real-time and historical data analysis.
+
+## Technologies Used
+- Python
+- CoinMarketCap API
+- Pandas
+- Seaborn
+- Matplotlib
 
